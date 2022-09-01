@@ -6,7 +6,7 @@ on:
       - main # or master before October 2020
 
 env:
-  GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+  JEKYLL_PAT: ${{ secrets.GITHUB_TOKEN }}
 
 jobs:
   build:
