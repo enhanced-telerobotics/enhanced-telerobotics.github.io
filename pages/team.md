@@ -13,7 +13,7 @@ permalink: "/team/"
         <p><a href="http://zonghe-chua.github.io">Zonghe Chua</a>
 	<br>
 	<i>Principal Investigator</i> <br>
-	office: Glennan Building Room 514A
+	office: Glennan Building Room 514A <br>
 	email: zonghe.chua at case dot edu
 	</p>
     </div><!-- /.medium-6.columns -->
