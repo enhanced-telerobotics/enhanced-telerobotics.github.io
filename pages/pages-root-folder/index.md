@@ -19,7 +19,7 @@ homepage: true
 <h1 style="text-align:center;"> ERIE lab is actively recruiting for PhD students for Fall 2023! Please see the TEAM page for more details. </h1>
 <br>
 <br>
-<h3>The Enhanced teleRobotic Interfaces and Experiences (ERIE) Lab at Case Western University seeks to research new approaches to integrate multimodal sensing, multisensory feedback, and data-driven methods to improve human performance in teleoperator systems.</h3>
+<h3>The Enhanced Robotic Interfaces and Experiences (ERIE) Lab at Case Western University researches new approaches to integrate multimodal sensing, multisensory feedback, and data-driven methods to improve human performance when teleoperating robotic systems.</h3>
 
 
 ## Recent News

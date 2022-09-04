@@ -11,7 +11,7 @@ header: no
 show_meta: false
 ---
 
-The paper characterizing the quality of vision-based force feedback from neural networks {% cite ChuaIROS2022 %} was selected as a best paper finalist at IROS 2022. Dr. Chua will is excited to share the work and engage in fruitful discussion with other experts in the field.
+Our paper characterizing the quality of vision-based force feedback from neural networks {% cite ChuaIROS2022 %} was selected as a best paper finalist at IROS 2022. The conference will be held in Tokyo from the 23rd to the 27th of October. Dr. Chua is excited to share this work and engage in fruitful discussion with other experts in the field!
 
 {% bibliography --cited_in_order %}
 

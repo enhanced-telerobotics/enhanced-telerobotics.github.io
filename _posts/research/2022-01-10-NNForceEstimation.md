@@ -2,7 +2,7 @@
 layout: page
 subheadline: Research
 title:  "Vision-based Force Estimation and Haptic Feedback using Neural Networks"
-teaser: "Forcep tip force sensing in robot-assisted minimally invasive surgery is challenging due to strict requirements for miniaturization, biocompatibility, and sterilizability. Indirect force estimation is a promising method to measure forces while circumventing these constraints. Much like how humans can estimate forces visually, neural networks can attempt to do something similar. However there are concerns as to the generalizability of these methods as well as the relative importance of visual information compared to robot kinematic state information. We characterize the performance of vision-based neural networks with these considerations in mind, as well as quantify the quality of the closed-loop haptic feedback they can provide to the operator."
+teaser: "Forcep tip force sensing in robot-assisted minimally invasive surgery is challenging due to strict requirements for miniaturization, biocompatibility, and sterilizability. Indirect force estimation is a promising method to measure forces while circumventing these constraints. Much like how humans can estimate forces visually, neural networks can attempt to do something similar. However, there are concerns as to the generalizability of these methods as well as the relative importance of visual information compared to robot kinematic state information as inputs. We characterize the performance of vision-based neural networks with these considerations in mind and quantify the quality of the closed-loop haptic feedback they can provide to the operator."
 breadcrumb: false
 show_meta: false
 categories:
