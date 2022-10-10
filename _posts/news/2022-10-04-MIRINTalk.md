@@ -3,6 +3,7 @@ layout: page
 subheadline:  "News"
 title:  "MIRIN Presentation on Haptics for Enhancing RMIS Performance"
 teaser: "Prof. Chua presented virtually at the 2nd Annual Symposium of the Houston Methodist Institute for Robotics, Imaging, & Navigation"
+categories:
     - news
 tags:
     - presentation
