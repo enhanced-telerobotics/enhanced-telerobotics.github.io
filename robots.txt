@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://enhanced-telerobotics.github.io/sitemap.xml

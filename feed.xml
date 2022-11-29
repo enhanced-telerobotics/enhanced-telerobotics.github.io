@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://enhanced-telerobotics.github.io/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="https://enhanced-telerobotics.github.io/assets/css/rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>ERIE Lab at CWRU</title>
+		<description>Enhanced teleRobotic Interfaces and Experiences Lab at Case Western Reserve University</description>
+		<link>https://enhanced-telerobotics.github.io/</link>
+		<atom:link href="https://enhanced-telerobotics.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>IROS 2022</title>
+				<link>https://enhanced-telerobotics.github.io/news/IROS/</link>
+				<pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;&lt;img src=&quot;/images/IROS22-awards1.jpg&quot; alt=&quot;Presenting at Awards Session&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dr. Chua presented at the awards session at IROS 2022 in Kyoto on his paper in collaboration with Dr. Allison Okamura characterizing the quality of vision-based force feedback from neural networks &lt;a class=&quot;citation&quot; href=&quot;#ChuaIROS2022&quot;&gt;[1]&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Besides presenting and participating in fruitful academic discussions with other top researchers, he also got to reconnect with his former colleagues from Stanford while enjoying the beautiful conference venue and great dining options found around Kyoto.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/IROS22-lunch.jpeg&quot; alt=&quot;Lunch&quot; /&gt;
+&lt;img src=&quot;/images/IROS22-groupshot2.jpg&quot; alt=&quot;Group Shot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Another highlight was his visit the Kyoto University for Advanced Science and the NISAR Lab directed by &lt;a href=&quot;https://www.kuas.ac.jp/en/faculty-of-engineering/faculty-and-research/faculty/sajid-nisar/&quot;&gt;Dr. Sajid Nisar&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/IROS22-KUAS.jpeg&quot; alt=&quot;KUAS&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;ERIE lab aims to have a stronger presence at the next IROS in Detroit and other international robotics conferences in the future!&lt;/p&gt;
+
+&lt;h2 class=&quot;bibliography&quot;&gt;2022&lt;/h2&gt;
+&lt;h3 class=&quot;bibliography&quot;&gt;Conference Articles&lt;/h3&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;ChuaIROS2022&quot;&gt;Z. Chua and A. M. Okamura, &lt;a href=&quot;http://arxiv.org/abs/2109.11488&quot;&gt;“Characterization of Real-time Haptic Feedback from Multimodal Neural Network-based Force Estimates during Teleoperation,”&lt;/a&gt; in &lt;i&gt;IEEE/RSJ International Conference on Intelligent Robots and Systems&lt;/i&gt;, 2022.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;other-news&quot;&gt;Other News&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/MIRINTalk/&quot;&gt;News &amp;middot; &lt;strong&gt;MIRIN Presentation on Haptics for Enhancing RMIS Performance&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/IROSpaper/&quot;&gt;News &amp;middot; &lt;strong&gt;Nomination for Best Paper at IROS 2022&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">https://enhanced-telerobotics.github.io/news/IROS/</guid>
+			</item>
+		
+			<item>
+				<title>MIRIN Presentation on Haptics for Enhancing RMIS Performance</title>
+				<link>https://enhanced-telerobotics.github.io/news/MIRINTalk/</link>
+				<pubDate>Tue, 04 Oct 2022 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;Prof. Chua was one of the speakers at the 2nd Annual Symposium of the Houston Methodist Institute for Robotics, Imaging, &amp;amp; Navigation (MIRIN). There he shared about recent works that investigated how haptic feedback training can enhance surgical performance in robot-assisted surgery.&lt;/p&gt;
+
+&lt;p&gt;Here is a &lt;a href=&quot;https://www.youtube.com/watch?v=WRl4IAh1EjA&quot;&gt;link&lt;/a&gt; to the youtube recording of the session for those interested in watching.&lt;/p&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;other-news&quot;&gt;Other News&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/MIRINTalk/&quot;&gt;News &amp;middot; &lt;strong&gt;MIRIN Presentation on Haptics for Enhancing RMIS Performance&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/IROSpaper/&quot;&gt;News &amp;middot; &lt;strong&gt;Nomination for Best Paper at IROS 2022&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">https://enhanced-telerobotics.github.io/news/MIRINTalk/</guid>
+			</item>
+		
+			<item>
+				<title>Nomination for Best Paper at IROS 2022</title>
+				<link>https://enhanced-telerobotics.github.io/news/IROSpaper/</link>
+				<pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;Our paper characterizing the quality of vision-based force feedback from neural networks &lt;a class=&quot;citation&quot; href=&quot;#ChuaIROS2022&quot;&gt;[1]&lt;/a&gt; was selected as a best paper finalist at IROS 2022. The conference will be held in Tokyo from the 23rd to the 27th of October. Dr. Chua is excited to share this work and engage in fruitful discussion with other experts in the field!&lt;/p&gt;
+
+&lt;h2 class=&quot;bibliography&quot;&gt;2022&lt;/h2&gt;
+&lt;h3 class=&quot;bibliography&quot;&gt;Conference Articles&lt;/h3&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;ChuaIROS2022&quot;&gt;Z. Chua and A. M. Okamura, &lt;a href=&quot;http://arxiv.org/abs/2109.11488&quot;&gt;“Characterization of Real-time Haptic Feedback from Multimodal Neural Network-based Force Estimates during Teleoperation,”&lt;/a&gt; in &lt;i&gt;IEEE/RSJ International Conference on Intelligent Robots and Systems&lt;/i&gt;, 2022.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;other-news&quot;&gt;Other News&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/MIRINTalk/&quot;&gt;News &amp;middot; &lt;strong&gt;MIRIN Presentation on Haptics for Enhancing RMIS Performance&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/IROSpaper/&quot;&gt;News &amp;middot; &lt;strong&gt;Nomination for Best Paper at IROS 2022&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">https://enhanced-telerobotics.github.io/news/IROSpaper/</guid>
+			</item>
+		
+			<item>
+				<title>Vision-based Force Estimation and Haptic Feedback using Neural Networks</title>
+				<link>https://enhanced-telerobotics.github.io/research/NNForceEstimation/</link>
+				<pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;Primary Researcher: Zonghe Chua&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;div class=&quot;medium-6 columns&quot;&gt;
+&lt;img src=&quot;/images/force_trajectory.gif&quot; alt=&quot;Offline NN predictions&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;medium-6 columns&quot;&gt;
+Our neural networks are capable of estimating interaction forces offline. In the figure below, the black line is the ground truth force while the green, red, and blue lines are our vision-only, state-only, and vision+state neural networks. We included two benchmarks, an RNN (purple) as well as a physics-based dynamic model (gold). 
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+&lt;div class=&quot;row&quot;&gt;
+&lt;p&gt;
+We also performed a gradient class activation to understand what visual features were being used by the neural networs to estimate force. Here we see from left to right that in the x-, y-, and z-directions, the neural networks are looking at the shadows and deformation of the silicone material.
+&lt;/p&gt;
+&lt;img src=&quot;/images/gradcam.gif&quot; alt=&quot;NN gradcam&quot; style=&quot;margin:auto;display:block;width=50%;&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;published-works&quot;&gt;Published Works&lt;/h2&gt;
+
+&lt;p&gt;&lt;span id=&quot;ChuaIROS2022&quot;&gt;Z. Chua and A. M. Okamura, &lt;a href=&quot;http://arxiv.org/abs/2109.11488&quot;&gt;“Characterization of Real-time Haptic Feedback from Multimodal Neural Network-based Force Estimates during Teleoperation,”&lt;/a&gt; in &lt;i&gt;IEEE/RSJ International Conference on Intelligent Robots and Systems&lt;/i&gt;, 2022.&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;ChuaICRA2021&quot;&gt;Z. Chua, A. M. Jarc, and A. M. Okamura, &lt;a href=&quot;http://arxiv.org/abs/2011.02112&quot;&gt;“Toward Force Estimation in Robot-Assisted Surgery using Deep Learning with Vision and Robot State,”&lt;/a&gt; in &lt;i&gt;IEEE International Conference on Robotics and Automation&lt;/i&gt;, 2021, pp. 12335–12341.&lt;/span&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;other-research&quot;&gt;Other Research&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/research/VisuohapticPriorExperience/&quot;&gt;Research &amp;middot; &lt;strong&gt;Learning Visual Force Estimation during Teleoperation of a Surgical Robot&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">https://enhanced-telerobotics.github.io/research/NNForceEstimation/</guid>
+			</item>
+		
+			<item>
+				<title>Learning Visual Force Estimation during Teleoperation of a Surgical Robot</title>
+				<link>https://enhanced-telerobotics.github.io/research/VisuohapticPriorExperience/</link>
+				<pubDate>Sun, 09 Jan 2022 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;Primary Researcher: Zonghe Chua&lt;/p&gt;
+
+&lt;p&gt;&lt;span id=&quot;ChuaTMRB2020&quot;&gt;Z. Chua, A. M. Jarc, S. Wren, I. Nisky, and A. M. Okamura, &lt;a href=&quot;http://doi.org/10.1109/TMRB.2020.3023005&quot;&gt;“Task Dynamics of Prior Training Influence Visual Force Estimation Ability During Teleoperation,”&lt;/a&gt; &lt;i&gt;IEEE Transactions on Medical Robotics and Bionics&lt;/i&gt;, vol. 2, no. 4, pp. 586–597, 2020.&lt;/span&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/research/VisuohapticPriorExperience/&quot;&gt;Research &amp;middot; &lt;strong&gt;Learning Visual Force Estimation during Teleoperation of a Surgical Robot&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">https://enhanced-telerobotics.github.io/research/VisuohapticPriorExperience/</guid>
+			</item>
+		
+	</channel>
+</rss>
