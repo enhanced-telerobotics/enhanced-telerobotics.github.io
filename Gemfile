@@ -12,4 +12,4 @@ gem 'jekyll-scholar', group: :jekyll_plugins
 
 gem 'asciidoctor', '~> 1.5.4'
 gem 'coderay', '1.1.1'
-
+gem "jekyll-sass-converter", "~> 2.0"
