@@ -17,6 +17,8 @@ homepage: true
 ---
 
 <h3>The Enhanced Robotic Interfaces and Experiences (ERIE) Lab at Case Western University researches new approaches to integrate multimodal sensing, multisensory feedback, and data-driven methods to improve human performance when teleoperating robotic systems.</h3>
+<br>
+<img src="/images/ERIE_Concept.png" alt="ERIE Lab Research Concept">
 
 
 ## Recent News

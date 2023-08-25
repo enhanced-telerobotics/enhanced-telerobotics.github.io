@@ -40,7 +40,9 @@ We also performed a gradient class activation to understand what visual features
 
 <br>
 <br>
-
+We have posted part of the dataset from {% cite ChuaICRA2021 %} online. This can be access via our github repo page [here](https://github.com/enhanced-telerobotics/single_psm_manipulation_dataset).
+<br>
+<br>
 
 ## Published Works 
 

@@ -25,25 +25,30 @@ permalink: "/team/"
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
-<h3> Current Graduate Students </h3>
-Jiaji Su
-Sai Jiang
+<h3> Current PhD Students </h3>
+Jiaji Su, ECSE <br>
+Sai Jiang, ECSE
+
+<h3> Current Masters Students </h3>
+Kaiwen Zuo, EMAE <br>
+Xiangru Li, ECSE <br>
+Shuyuan Yang, CSDS 
+
 
 <h3> Current Undergraduates </h3>
-Chris Xinyao Cai <br>
-Kyle Golobish <br>
+My Le Hoang , CSDS/ECSE<br>
+William Huang, CSDS
 
 <h3> Past Undergraduates </h3>
-My Le Hoang <br>
-Chris Xinyao Cai <br>
-Kyle Golobish <br>
-Juan Beaver 
+Chris Xinyao Cai, ECSE <br>
+Kyle Golobish, EMAE <br>
+Juan Beaver, CSDS
 
 <h3> About Joining the Lab</h3>
 
 I am excited to mentor with self-directed, intellectually curious PhD students interested in the scientific questions surrounding the next generation of human-aware robotic and virtual interfaces. Given the interdisciplinary nature of my research, students who majored in other engineering or STEM fields outside of electrical engineering are welcome to inquire about joining. 
 
-I am also open to mentoring master's and undergraduate students for thesis and senior projects/research credit respectively. Individuals should be interested in research or pursuing doctoral studies in robotics, mechatronics, haptics, and controls.
+I am also open to mentoring CWRU master's and undergraduate students for thesis and senior projects/research credit respectively. Individuals should be interested in research or pursuing doctoral studies in robotics, mechatronics, haptics, and controls. Master students should seek a research rotation in their first year under the mentorship of a PhD student.
 
 I am committed to building a work environment that supports and values people with diverse backgrounds and perspectives. Individuals from underrepresented backgrounds are highly encouraged to apply to be part of my research group.
 
