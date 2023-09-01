@@ -27,7 +27,8 @@ permalink: "/team/"
 
 <h3> Current PhD Students </h3>
 Jiaji Su, ECSE <br>
-Sai Jiang, ECSE
+Sai Jiang, ECSE <br>
+Yizhou Li, ECSE
 
 <h3> Current Masters Students </h3>
 Kaiwen Zuo, EMAE <br>
