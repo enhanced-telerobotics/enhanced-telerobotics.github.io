@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: "ECSE600/373: Design and Control of Haptic Systems"
+title: "ECSE600/397: Design and Control of Haptic Systems"
 teaser: ""
 permalink: "/ECSE600/"
 ---
