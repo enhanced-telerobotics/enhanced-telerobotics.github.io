@@ -14,6 +14,13 @@
   url: "/publications/"
   side: left
 
+- title: "Teaching"
+  url: "/teaching/"
+  side: left
+  dropdown:
+  - title: "ECSE600"
+    url: "/ECSE600/"
+
 - title: News
   url: "/news/"
   side: left
