@@ -25,7 +25,7 @@ We have release the designs for the force sensor [here](https://github.com/enhan
 
 ## Published Works 
 
-{% reference chua2023modular %}
+{% reference chuaSensors2023 %}
 
 ## Other Research
 {: .t60 }

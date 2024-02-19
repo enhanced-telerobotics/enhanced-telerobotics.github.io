@@ -17,7 +17,7 @@ image:
 author: zchua
 ---
 
-Primary Researcher: Zonghe Chua
+Primary Researcher: Shuyuan Yang
 
 <br>
 <br>
@@ -46,9 +46,12 @@ We have posted part of the dataset from {% cite ChuaICRA2021 %} online. This can
 
 ## Published Works 
 
+{% reference yangJMRR2024 %}
+
 {% reference ChuaIROS2022 %}
 
 {% reference ChuaICRA2021 %}
+
 
 ## Other Research
 {: .t60 }

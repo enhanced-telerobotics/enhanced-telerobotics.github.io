@@ -35,15 +35,19 @@ Kaiwen Zuo, EMAE <br>
 Xiangru Li, ECSE <br>
 Shuyuan Yang, CSDS 
 
-
 <h3> Current Undergraduates </h3>
-My Le Hoang , CSDS/ECSE<br>
-William Huang, CSDS
+Sreya Srinidhi, CSDS <br>
+Tu Pham, ECSE <br>
+Juan Beaver, ECSE <br>
+Juho Jeon, ECSE
 
 <h3> Past Undergraduates </h3>
-Chris Xinyao Cai, ECSE <br>
+Tyler Lin, EBME <br>
+My Le Hoang, CSDS/ECSE <br>
+Jiajun Yap, EMAE (exchange student from Nanyang Tech. Univ.) <br>
+William Huang, CSDS <br>
+Chris Xinyao Cai, ECSE (now PhD student in UW Madison) <br>
 Kyle Golobish, EMAE <br>
-Juan Beaver, CSDS
 
 <h3> About Joining the Lab</h3>
 
