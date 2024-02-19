@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://enhanced-telerobotics.github.io/assets/xslt/rss.xslt" ?>
+<?xml-stylesheet type="text/css" href="https://enhanced-telerobotics.github.io/assets/css/rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>ERIE Lab at CWRU</title>
+		<description>Enhanced teleRobotic Interfaces and Experiences Lab at Case Western Reserve University</description>
+		<link>https://enhanced-telerobotics.github.io/</link>
+		<atom:link href="https://enhanced-telerobotics.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Contact Conditional Vision-based Force Estimation to be Published in JMRR</title>
+				<link>https://enhanced-telerobotics.github.io/news/JMRRpaper/</link>
+				<pubDate>Sat, 10 Feb 2024 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;Our paper &lt;a class=&quot;citation&quot; href=&quot;#yangJMRR2024&quot;&gt;[1]&lt;/a&gt; on contact-conditional visual force estimation using local stiffness model has been accepted for publication in the Journal of Medical Robotics Research. This is the first student-led journal paper from the lab! Congratulations to lead author Shuyuan Yang and the rest of the contributors!&lt;/p&gt;
+
+&lt;p&gt;Our previous work has shown that vision-based force estimation neural networks have difficulty generalizing to new scenes. Therefore we asked the question: How can we create vision-based force estimators that can quickly generalize to new scenes especially when training data is difficult to acquire?&lt;/p&gt;
+
+&lt;p&gt;In this work, we train neural networks without the need for large amounts of robot sensor data. Instead, we leverage the convenience of video recordings, the scalability of crowd-sourcing, and geometrically-aware neural representations to enhance data-efficiency when fine-tuning to generalize to new surgical scenes.&lt;/p&gt;
+
+&lt;h2 class=&quot;bibliography&quot;&gt;2024&lt;/h2&gt;
+&lt;h3 class=&quot;bibliography&quot;&gt;Journal Articles&lt;/h3&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;yangJMRR2024&quot;&gt;S. Yang, M. H. Le, K. R. Golobish, J. C. Beaver, and Z. Chua, “Vision-Based Force Estimation for Minimally Invasive Telesurgery Through Contact Detection and Local Stiffness Models,” &lt;i&gt;Journal of Medical Robotics Research&lt;/i&gt;, 2024.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;other-news&quot;&gt;Other News&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/errorampPaper/&quot;&gt;News &amp;middot; &lt;strong&gt;Haptic Error Amplification Paper Published&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/IROS23/&quot;&gt;News &amp;middot; &lt;strong&gt;IROS 2023&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/labSocial/&quot;&gt;News &amp;middot; &lt;strong&gt;Summer Lab Social&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">https://enhanced-telerobotics.github.io/news/JMRRpaper/</guid>
+			</item>
+		
+			<item>
+				<title>Haptic Error Amplification Paper Published</title>
+				<link>https://enhanced-telerobotics.github.io/news/errorampPaper/</link>
+				<pubDate>Sun, 07 Jan 2024 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;Our paper &lt;a class=&quot;citation&quot; href=&quot;#oquendoTOH2024&quot;&gt;[1]&lt;/a&gt; on using haptic error amplification to develop surgical skill in a virtual reality training environment was accepted for publication in IEEE Transactions of Haptics. In this study, we compared different haptic learning paradigms, guidance and error amplification, during surgical skills training. We found that the benefit of training with guidance or error amplification depended on the user’s initial ability level. People with high initial ability benefited the least from guidance. Training with error amplification caused less accurate people to slow down. Overall the effect is that for people with low speed-accuracy (i.e. they must trade off speed to gain accuracy), haptic training in either condition proves beneficial.&lt;/p&gt;
+
+&lt;h2 class=&quot;bibliography&quot;&gt;2024&lt;/h2&gt;
+&lt;h3 class=&quot;bibliography&quot;&gt;Journal Articles&lt;/h3&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;oquendoTOH2024&quot;&gt;Y. A. Oquendo, M. M. Coad, S. M. Wren, T. S. Lendvay, I. Nisky, A. M. Jarc, A. M. Okamura, and Z. Chua, &lt;a href=&quot;https://doi.org/10.1109/TOH.2024.3350128&quot;&gt;“Haptic Guidance and Haptic Error Amplification in a Virtual Surgical Robotic Training Environment,”&lt;/a&gt; &lt;i&gt;IEEE Transaction on Haptics&lt;/i&gt;, 2024.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;other-news&quot;&gt;Other News&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/errorampPaper/&quot;&gt;News &amp;middot; &lt;strong&gt;Haptic Error Amplification Paper Published&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/IROS23/&quot;&gt;News &amp;middot; &lt;strong&gt;IROS 2023&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/labSocial/&quot;&gt;News &amp;middot; &lt;strong&gt;Summer Lab Social&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">https://enhanced-telerobotics.github.io/news/errorampPaper/</guid>
+			</item>
+		
+			<item>
+				<title>Haptic Feedback for Motor Learning</title>
+				<link>https://enhanced-telerobotics.github.io/research/HapticError/</link>
+				<pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;Primary Researcher: Zonghe Chua&lt;/p&gt;
+
+&lt;h2 id=&quot;published-works&quot;&gt;Published Works&lt;/h2&gt;
+
+&lt;p&gt;&lt;span id=&quot;oquendoTOH2024&quot;&gt;Y. A. Oquendo, M. M. Coad, S. M. Wren, T. S. Lendvay, I. Nisky, A. M. Jarc, A. M. Okamura, and Z. Chua, &lt;a href=&quot;https://doi.org/10.1109/TOH.2024.3350128&quot;&gt;“Haptic Guidance and Haptic Error Amplification in a Virtual Surgical Robotic Training Environment,”&lt;/a&gt; &lt;i&gt;IEEE Transaction on Haptics&lt;/i&gt;, 2024.&lt;/span&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;other-research&quot;&gt;Other Research&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/research/OpenSourceForceSensor/&quot;&gt;Research &amp;middot; &lt;strong&gt;Open Source Force Sensors for Minimally Invasive Surgical Robotics Research&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/research/NNForceEstimation/&quot;&gt;Research &amp;middot; &lt;strong&gt;Vision-based Force Estimation and Haptic Feedback using Neural Networks&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/research/VisuohapticPriorExperience/&quot;&gt;Research &amp;middot; &lt;strong&gt;Learning Visual Force Estimation during Teleoperation of a Surgical Robot&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">https://enhanced-telerobotics.github.io/research/HapticError/</guid>
+			</item>
+		
+			<item>
+				<title>IROS 2023</title>
+				<link>https://enhanced-telerobotics.github.io/news/IROS23/</link>
+				<pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;ERIE Lab members were out in full force at the International Conference of Intelligent Robots and Systems in Detroit, Michigan from October 1st-5th.&lt;/p&gt;
+
+&lt;p&gt;PhD students Yi Zhou Li and Sai Jiang participated as student volunteers to assist with running the conference smoothly.&lt;/p&gt;
+
+&lt;p&gt;PhD student Jiaji Su presented a demo of a 3+1 degree-of-freedom soft haptic device.&lt;/p&gt;
+
+&lt;p&gt;Undergraduate research Ray Le presented a late-breaking poster at the workshop “Debate: Data vs. Model in Medical Robotics” on contact-conditional visual force estimation. This work was done in collaboration with Shuyuan Yang a master’s thesis student. Their work won 3rd place for best poster of the workshop.&lt;/p&gt;
+
+&lt;p&gt;Prof. Chua gave a talk at the same workshop on model-based and learning-based approaches to visual force estimation in teleoperation from the perspective of humans vs. robots.&lt;/p&gt;
+
+&lt;p&gt;The final dinner reception was held at the Henry Ford Museum and ERIE members had a fun time exploring the various interactive exhibits at the museum.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/IROS23/group.jpeg&quot; alt=&quot;ERIE Lab Members at IROS 2023&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/IROS23/group2.jpeg&quot; alt=&quot;ERIE Lab Members at Dinner&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/IROS23/JJS.jpeg&quot; alt=&quot;Jiaji Su&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/IROS23/SJ.jpeg&quot; alt=&quot;Sai Jiang&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/IROS23/RL2.jpeg&quot; alt=&quot;Ray Le presenting her poster&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/IROS23/ZC-talk.png&quot; alt=&quot;Prof. Chua presenting ERIE Lab research&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;other-news&quot;&gt;Other News&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/errorampPaper/&quot;&gt;News &amp;middot; &lt;strong&gt;Haptic Error Amplification Paper Published&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/IROS23/&quot;&gt;News &amp;middot; &lt;strong&gt;IROS 2023&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/labSocial/&quot;&gt;News &amp;middot; &lt;strong&gt;Summer Lab Social&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">https://enhanced-telerobotics.github.io/news/IROS23/</guid>
+			</item>
+		
+			<item>
+				<title>Summer Lab Social</title>
+				<link>https://enhanced-telerobotics.github.io/news/labSocial/</link>
+				<pubDate>Thu, 29 Jun 2023 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;&lt;img src=&quot;/images/lab_social_summer_2023.jpg&quot; alt=&quot;ERIE Lab Members and Friends&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;ERIE lab members and their plus ones gathered for a BBQ at Edgewater Park. We had fun making setting up the grills, enjoying food and beverages, and played some Kubb, a team lawn game where you try to knock down pins using a stick. Thank you to Jiaji for being the grill master and to Kaiwen for making the Costco run!&lt;/p&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;other-news&quot;&gt;Other News&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/errorampPaper/&quot;&gt;News &amp;middot; &lt;strong&gt;Haptic Error Amplification Paper Published&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/IROS23/&quot;&gt;News &amp;middot; &lt;strong&gt;IROS 2023&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/labSocial/&quot;&gt;News &amp;middot; &lt;strong&gt;Summer Lab Social&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">https://enhanced-telerobotics.github.io/news/labSocial/</guid>
+			</item>
+		
+			<item>
+				<title>Open Source Force Sensors for Minimally Invasive Surgical Robotics Research</title>
+				<link>https://enhanced-telerobotics.github.io/research/OpenSourceForceSensor/</link>
+				<pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;Primary Researcher: Xiangru Li
+&lt;br /&gt;
+We have release the designs for the force sensor &lt;a href=&quot;https://github.com/enhanced-telerobotics/RMIS_force_sensor&quot;&gt;here&lt;/a&gt;.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;published-works&quot;&gt;Published Works&lt;/h2&gt;
+
+&lt;p&gt;&lt;span id=&quot;chuaSensors2023&quot;&gt;Z. Chua and A. M. Okamura, &lt;a href=&quot;https://doi.org/10.3390/s23115230&quot;&gt;“A Modular 3-Degrees-of-Freedom Force Sensor for Robot-Assisted Minimally Invasive Surgery Research,”&lt;/a&gt; &lt;i&gt;Sensors&lt;/i&gt;, vol. 23, no. 11, p. 5230, 2023.&lt;/span&gt;&lt;/p&gt;
+
+&lt;h2 class=&quot;t60&quot; id=&quot;other-research&quot;&gt;Other Research&lt;/h2&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/research/OpenSourceForceSensor/&quot;&gt;Research &amp;middot; &lt;strong&gt;Open Source Force Sensors for Minimally Invasive Surgical Robotics Research&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/research/NNForceEstimation/&quot;&gt;Research &amp;middot; &lt;strong&gt;Vision-based Force Estimation and Haptic Feedback using Neural Networks&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/research/VisuohapticPriorExperience/&quot;&gt;Research &amp;middot; &lt;strong&gt;Learning Visual Force Estimation during Teleoperation of a Surgical Robot&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">https://enhanced-telerobotics.github.io/research/OpenSourceForceSensor/</guid>
+			</item>
+		
+			<item>
+				<title>Open Source Surgical Robotics Force Sensor Published</title>
+				<link>https://enhanced-telerobotics.github.io/news/sensorsPaper/</link>
+				<pubDate>Mon, 29 May 2023 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;Our paper on the design of an open-source, low-cost thee-degree-of-freedom force sensor for surgical robotics researchers has been published in MDPI Sensors &lt;a class=&quot;citation&quot; href=&quot;#chuaSensors2023&quot;&gt;[1]&lt;/a&gt;. The repository for designs can be found &lt;a href=&quot;https://github.com/enhanced-telerobotics/RMIS_force_sensor&quot;&gt;here&lt;/a&gt;, please feel free to reach out to Dr. Chua if you have questions about how to build these sensors. We are continuing work to improve the sensors so that they are more robust to manufacturing errors.&lt;/p&gt;
+
+&lt;h2 class=&quot;bibliography&quot;&gt;2023&lt;/h2&gt;
+&lt;h3 class=&quot;bibliography&quot;&gt;Journal Articles&lt;/h3&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;chuaSensors2023&quot;&gt;Z. Chua and A. M. Okamura, &lt;a href=&quot;https://doi.org/10.3390/s23115230&quot;&gt;“A Modular 3-Degrees-of-Freedom Force Sensor for Robot-Assisted Minimally Invasive Surgery Research,”&lt;/a&gt; &lt;i&gt;Sensors&lt;/i&gt;, vol. 23, no. 11, p. 5230, 2023.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;other-news&quot;&gt;Other News&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/errorampPaper/&quot;&gt;News &amp;middot; &lt;strong&gt;Haptic Error Amplification Paper Published&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/IROS23/&quot;&gt;News &amp;middot; &lt;strong&gt;IROS 2023&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/labSocial/&quot;&gt;News &amp;middot; &lt;strong&gt;Summer Lab Social&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">https://enhanced-telerobotics.github.io/news/sensorsPaper/</guid>
+			</item>
+		
+			<item>
+				<title>Undergraduate Research Presentation at Intersections</title>
+				<link>https://enhanced-telerobotics.github.io/news/IntersectionsKRG/</link>
+				<pubDate>Wed, 10 May 2023 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;Undergraduate EMAE senior Kyle Golobish’s senior design project on using Gaussian Mixture Models to create synthetic training data to improve the performance of a pipe leak detection neural network won runner up for the best project at Intersections Spring 2024. Congrats to Kyle and we wish him the best in his future endeavors post-graduation!&lt;/p&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;other-news&quot;&gt;Other News&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/errorampPaper/&quot;&gt;News &amp;middot; &lt;strong&gt;Haptic Error Amplification Paper Published&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/IROS23/&quot;&gt;News &amp;middot; &lt;strong&gt;IROS 2023&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/labSocial/&quot;&gt;News &amp;middot; &lt;strong&gt;Summer Lab Social&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">https://enhanced-telerobotics.github.io/news/IntersectionsKRG/</guid>
+			</item>
+		
+			<item>
+				<title>Undergraduate Research Presentation at Intersections</title>
+				<link>https://enhanced-telerobotics.github.io/news/Intersections/</link>
+				<pubDate>Sat, 10 Dec 2022 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;&lt;img src=&quot;/images/intersections22.jpg&quot; alt=&quot;Chris presenting at her poster&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Undergraduate senior Chris Cai presents her senior design work on designing custom force sensors for the da Vinci surgical tools at the Intersections presentation. She participated in the awards judging category. Congratulations and great work Chris!&lt;/p&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;other-news&quot;&gt;Other News&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/errorampPaper/&quot;&gt;News &amp;middot; &lt;strong&gt;Haptic Error Amplification Paper Published&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/IROS23/&quot;&gt;News &amp;middot; &lt;strong&gt;IROS 2023&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/labSocial/&quot;&gt;News &amp;middot; &lt;strong&gt;Summer Lab Social&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">https://enhanced-telerobotics.github.io/news/Intersections/</guid>
+			</item>
+		
+			<item>
+				<title>IROS 2022</title>
+				<link>https://enhanced-telerobotics.github.io/news/IROS/</link>
+				<pubDate>Sun, 30 Oct 2022 00:00:00 +0000</pubDate>
+				<description>&lt;p&gt;&lt;img src=&quot;/images/IROS22-awards1.jpg&quot; alt=&quot;Presenting at Awards Session&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Dr. Chua presented at the awards session at IROS 2022 in Kyoto on his paper in collaboration with Dr. Allison Okamura characterizing the quality of vision-based force feedback from neural networks &lt;a class=&quot;citation&quot; href=&quot;#ChuaIROS2022&quot;&gt;[1]&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Besides presenting and participating in fruitful academic discussions with other top researchers, he also got to reconnect with his former colleagues from Stanford while enjoying the beautiful conference venue and great dining options found around Kyoto.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/IROS22-lunch.jpeg&quot; alt=&quot;Lunch&quot; /&gt;
+&lt;img src=&quot;/images/IROS22-groupshot2.jpg&quot; alt=&quot;Group Shot&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Another highlight was his visit the Kyoto University for Advanced Science and the NISAR Lab directed by &lt;a href=&quot;https://www.kuas.ac.jp/en/faculty-of-engineering/faculty-and-research/faculty/sajid-nisar/&quot;&gt;Dr. Sajid Nisar&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/IROS22-KUAS.jpeg&quot; alt=&quot;KUAS&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;ERIE lab aims to have a stronger presence at the next IROS in Detroit and other international robotics conferences in the future!&lt;/p&gt;
+
+&lt;h2 class=&quot;bibliography&quot;&gt;2022&lt;/h2&gt;
+&lt;h3 class=&quot;bibliography&quot;&gt;Conference Articles&lt;/h3&gt;
+&lt;ol class=&quot;bibliography&quot;&gt;&lt;li&gt;&lt;span id=&quot;ChuaIROS2022&quot;&gt;Z. Chua and A. M. Okamura, &lt;a href=&quot;http://arxiv.org/abs/2109.11488&quot;&gt;“Characterization of Real-time Haptic Feedback from Multimodal Neural Network-based Force Estimates during Teleoperation,”&lt;/a&gt; in &lt;i&gt;IEEE/RSJ International Conference on Intelligent Robots and Systems&lt;/i&gt;, 2022.&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;
+
+&lt;h3 class=&quot;t60&quot; id=&quot;other-news&quot;&gt;Other News&lt;/h3&gt;
+
+&lt;ul class=&quot;side-nav&quot;&gt;
+
+  
+
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/errorampPaper/&quot;&gt;News &amp;middot; &lt;strong&gt;Haptic Error Amplification Paper Published&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/IROS23/&quot;&gt;News &amp;middot; &lt;strong&gt;IROS 2023&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/labSocial/&quot;&gt;News &amp;middot; &lt;strong&gt;Summer Lab Social&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+    
+      &lt;li class=&quot;text-right&quot;&gt;&lt;a href=&quot;https://enhanced-telerobotics.github.io/news/archive/&quot;&gt;&lt;strong&gt;More ›&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+
+
+  
+&lt;/ul&gt;
+
+</description>
+				<guid isPermaLink="true">https://enhanced-telerobotics.github.io/news/IROS/</guid>
+			</item>
+		
+	</channel>
+</rss>
