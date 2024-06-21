@@ -8,8 +8,8 @@ permalink: "/team/"
 
 <div class="row t30">
     <div class="medium-4 columns b30">
-	<img src="/images/chua_profile.jpg" alt="">
-        <!--img src="{{ site.urlimg }}chua_profile.jpg" alt=""-->
+	<img src="/images/profiles/chua.png" alt="">
+        <!--img src="{{ site.urlimg }}chua.png" alt=""-->
         <p><a href="http://zonghe-chua.github.io">Zonghe Chua</a>
 	<br>
 	<i>Principal Investigator</i> <br>
@@ -25,23 +25,130 @@ permalink: "/team/"
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
-<h3> Current PhD Students </h3>
-Jiaji Su, ECSE <br>
-Sai Jiang, ECSE <br>
-Yizhou Li, ECSE
+<div class="row t30">
+    <div class="medium-4 columns b30">
+	<img src="/images/profiles/jiajisu.png" alt="">
+        <!--img src="{{ site.urlimg }}jiajisu.png" alt=""-->
+        <p><a href="">Jiaji Su</a>
+	<br>
+	<i>PhD Candidate in Electrical Engineering</i> <br>
+	MS Mechanical Engineering <br> 
+	Lehigh University <br>
+	</p>
+    </div><!-- /.medium-6.columns -->
 
-<h3> Current Masters Students </h3>
-Kaiwen Zuo, EMAE <br>
-Xiangru Li, ECSE <br>
-Shuyuan Yang, CSDS 
+    <div class="medium-4 columns b30">
+	<img src="/images/profiles/saijiang.png" alt="">
+        <!--img src="{{ site.urlimg }}saijiang.png" alt=""-->
+        <p><a href="">Sai Jiang</a>
+	<br>
+	<i>PhD Candidate in Electrical Engineering</i> <br>
+	MS Electrical Engineering <br> 
+	Southern Methodist University
+	</p>
+    </div><!-- /.medium-6.columns -->
 
-<h3> Current Undergraduates </h3>
+    <div class="medium-4 columns b30">
+	<img src="/images/profiles/yizhouli.png" alt="">
+        <!--img src="{{ site.urlimg }}yizhouli.png" alt=""-->
+        <p><a href="">Yizhou Li</a>
+	<br>
+	<i>PhD Student in Electrical Engineering</i> <br>
+	MS Computer Science <br>
+	Vanderbilt University
+	</p>
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+
+<div class="row t30">
+    <div class="medium-4 columns b30">
+	<img src="/images/profiles/kaiwenzuo.png" alt="">
+        <!--img src="{{ site.urlimg }}kaiwenzuo.png" alt=""-->
+        <p><a href="">Kaiwen Zuo</a>
+	<br>
+	<i>PhD Student in Electrical Engineering</i> <br>
+	MS Mechanical Engineering <br> 
+	Case Western Reserve University <br>
+	</p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-4 columns b30">
+	<img src="/images/profiles/shuyuanyang.png" alt="">
+        <!--img src="{{ site.urlimg }}shuyuanyang.png" alt=""-->
+        <p><a href="">Shuyuan Yang</a>
+	<br>
+	<i>PhD Student in Electrical Engineering</i> <br>
+	MS Computer Science <br>
+	Case Western Reserve University
+	</p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-4 columns b30">
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+
+<div class="row t30">
+    <div class="medium-4 columns b30">
+	<img src="/images/profiles/ariglockner.png" alt="">
+        <!--img src="{{ site.urlimg }}ariglockner.png" alt=""-->
+        <p><a href="">Ari Glockner</a>
+	<br>
+	<i>Undergraduate Summer Rotator</i> <br>
+ 	Computer Science, CWRU
+	</p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-4 columns b30">
+	<img src="/images/profiles/juhojeon.png" alt="">
+        <!--img src="{{ site.urlimg }}juhojeon.png" alt=""-->
+        <p><a href="">Juho Jeon</a>
+	<br>
+	<i>Undergraduate Summer Rotator</i> <br>
+	 Electrical Engineering, CWRU
+	</p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-4 columns b30">
+	<img src="/images/profiles/vaishnavinayak.png" alt="">
+        <!--img src="{{ site.urlimg }}vaishnavinayak.png" alt=""-->
+        <p><a href="">Vaishnavi Nayak</a>
+	<br>
+	<i>Undergraduate Summer Rotator</i> <br>
+	Computer Science, Ohio State University
+	</p>
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+
+<div class="row t30">
+    <div class="medium-4 columns b30">
+	<img src="/images/profiles/emmasinasac.png" alt="">
+        <!--img src="{{ site.urlimg }}emmasinasac.png" alt=""-->
+        <p><a href="">Emma Sinasac</a>
+	<br>
+	<i>Undergraduate Summer Rotator <br> </i>
+	Mechanical Engineering, McGill University  <br>
+	</p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-4 columns b30">
+	<img src="/images/profiles/amitthusay.png" alt="">
+        <!--img src="{{ site.urlimg }}amitthusay.png" alt=""-->
+        <p><a href="">Amit Thusay</a>
+	<br>
+	<i>Undergraduate Summer Rotator</i> <br>
+	Electrical Engineering, CWRU
+	</p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-4 columns b30">
+
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+
+<h3> Past Undergraduates </h3>
 Sreya Srinidhi, CSDS <br>
 Tu Pham, ECSE <br>
 Juan Beaver, ECSE <br>
-Juho Jeon, ECSE
-
-<h3> Past Undergraduates </h3>
 Tyler Lin, EBME <br>
 My Le Hoang, CSDS/ECSE <br>
 Jiajun Yap, EMAE (exchange student from Nanyang Tech. Univ.) <br>
@@ -57,4 +164,4 @@ I am also open to mentoring CWRU master's and undergraduate students for thesis 
 
 I am committed to building a work environment that supports and values people with diverse backgrounds and perspectives. Individuals from underrepresented backgrounds are highly encouraged to apply to be part of my research group.
 
-Current CWRU students can reach out to me via email directly. Due to the high volume of emails I receive about the PhD program, I regretfully cannot answer all of them. Prospective PhD students should apply to the electrical engineering PhD program through the university's application portal. I do not offer any tuition or stipend support for masters students. Occasionally there are part-time hourly RA positions available.
+Current CWRU students can reach out to me via email directly. Due to the high volume of emails I receive about the PhD program, I regretfully cannot answer all of them. Prospective PhD students should apply to the electrical engineering PhD program through the university's application portal. I do not offer any tuition or stipend support for master's students. Occasionally there are part-time hourly RA positions available.
