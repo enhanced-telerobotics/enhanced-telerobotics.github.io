@@ -5,6 +5,11 @@ teaser: ""
 permalink: "/teaching/"
 ---
 <!--more-->
+<h3> Spring 2025 </h3>
+ECSE 600/397: Design and Control of Haptic Systems
+
+<h3> Fall 2024 </h3>
+ECSE 275: Fundamentals of Robotics
 
 <h3> Spring 2024 </h3>
 ECSE 600/397: Design and Control of Haptic Systems
