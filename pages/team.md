@@ -83,9 +83,79 @@ permalink: "/team/"
 	</p>
     </div><!-- /.medium-6.columns -->
 
-    <div class="medium-4 columns b30">
+    <div class="medium-4 columns b30 profile-element">
+	<img src="/images/profiles/xiuqishan.jpeg" alt="">
+        <!--img src="{{ site.urlimg }}xiuqishan.jpeg" alt=""-->
+        <p><a href="">Xiuqi Shan</a>
+	<br>
+	<i>MS Student in Electrical Engineering</i> <br>
+	Case Western Reserve University <br>
+	<i>BS Electrical Engineering</i> <br>
+	Purdue University <br>
+	</p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
+
+
+<div class="row t30">
+    <div class="medium-4 columns b30 profile-element">
+	<img src="/images/profiles/irenebhunia.jpeg" alt="">
+        <!--img src="{{ site.urlimg }}irenebhunia.jpeg" alt=""-->
+        <p><a href="">Irene Bhunia</a>
+	<br>
+	<i>BS Student in Biomedical and Electrical Engineering</i> <br>
+	Case Western Reserve University <br>
+	</p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-4 columns b30 profile-element">
+	<img src="/images/profiles/sahadasika.jpeg" alt="">
+        <!--img src="{{ site.urlimg }}sahadasika.jpeg" alt=""-->
+        <p><a href="">Sahasrakshi Dasika</a>
+	<br>
+	<i>BS Student in Mechanical Engineering </i> <br>
+	Case Western Reserve University
+	</p>
+    </div><!-- /.medium-6.columns -->
+
+    <div class="medium-4 columns b30 profile-element">
+	<img src="/images/profiles/shivamkumar.jpeg" alt="">
+        <!--img src="{{ site.urlimg }}shivamkumar.jpeg" alt=""-->
+        <p><a href="">Shivam Kumar, Research Intern</a>
+	<br>
+	<i>BTech Robotics and Cyber-Physical Systems </i><br>
+	Plaksha University, Mohali, India
+	</p>
+    </div><!-- /.medium-6.columns -->
+
+</div><!-- /.row -->
+
+
+<h3> Past Graduate Students </h3>
+
+<div class="row t30">
+    <div class="medium-4 columns b30 profile-element">
+	<img src="/images/profiles/grantboone.jpeg" alt="">
+        <!--img src="{{ site.urlimg }}grantboone.jpeg" alt=""-->
+        <p><a href="">Grant Boone</a>
+	<br>
+	<i>MS Mechanical Engineering (Thesis)</i> <br>
+ 	Case Western Reserve University <br>
+	now engineer at Battelle
+	</p>
+    </div><!-- /.medium-6.columns -->
+
+<div class="medium-4 columns b30">
+</div><!-- /.medium-6.columns -->
+
+<div class="medium-4 columns b30">
+</div><!-- /.medium-6.columns -->
+
+</div><!-- /.row -->
+
+Xiangru Li, MSEE, now Electrical Engineer @ API Metrology <br>
+
+<h3> Past Undergraduates </h3>
 
 <div class="row t30">
     <div class="medium-4 columns b30 profile-element">
@@ -119,12 +189,6 @@ permalink: "/team/"
     </div><!-- /.medium-6.columns -->
 
 </div><!-- /.row -->
-
-<h3> Past Graduate Students </h3>
-
-Xiangru Li, MSEE, now Electrical Engineer @ API Metrology <br>
-
-<h3> Past Undergraduates </h3>
 
 <div class="row t30">
     <div class="medium-4 columns b30 profile-element">
@@ -176,7 +240,7 @@ Xiangru Li, MSEE, now Electrical Engineer @ API Metrology <br>
 	<br>
 	<i>Undergraduate Rotator</i> <br>
 	Mechanical Engineering, CWRU <br>
-	now Mechanical Engineer at Neuronoff Inc.
+	now PhD student at Princeton University
 	</p>
     </div><!-- /.medium-6.columns -->
 <div class="medium-4 columns b30">
@@ -185,13 +249,10 @@ Xiangru Li, MSEE, now Electrical Engineer @ API Metrology <br>
 
 Sreya Srinidhi, CSDS <br>
 Tu Pham, ECSE <br>
-Juan Beaver, ECSE <br>
 Tyler Lin, EBME <br>
-My Le Hoang, CSDS/ECSE <br>
 Jiajun Yap, EMAE, exchange student from Nanyang Tech. Univ.<br>
 William Huang, CSDS, now a PhD student at CWRU <br>
 Chris Xinyao Cai, ECSE, now PhD student in UW Madison <br>
-Kyle Golobish, EMAE, now an engineer at Neuronoff Inc. <br>
 
 <h3> About Joining the Lab</h3>
 
