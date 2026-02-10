@@ -64,7 +64,7 @@ permalink: "/team/"
     <div class="medium-4 columns b30 profile-element">
 	<img src="/images/profiles/kaiwenzuo.png" alt="">
         <!--img src="{{ site.urlimg }}kaiwenzuo.png" alt=""-->
-        <p><a href="">Kaiwen Zuo</a>
+        <p><a href="https://cuberkk.github.io/">Kaiwen Zuo</a>
 	<br>
 	<i>PhD Student in Electrical Engineering</i> <br>
 	MS Mechanical Engineering <br> 
