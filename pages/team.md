@@ -118,15 +118,8 @@ permalink: "/team/"
 	</p>
     </div><!-- /.medium-6.columns -->
 
-    <div class="medium-4 columns b30 profile-element">
-	<img src="/images/profiles/shivamkumar.jpeg" alt="">
-        <!--img src="{{ site.urlimg }}shivamkumar.jpeg" alt=""-->
-        <p><a href="">Shivam Kumar, Research Intern</a>
-	<br>
-	<i>BTech Robotics and Cyber-Physical Systems </i><br>
-	Plaksha University, Mohali, India
-	</p>
-    </div><!-- /.medium-6.columns -->
+<div class="medium-4 columns b30">
+</div><!-- /.medium-6.columns -->
 
 </div><!-- /.row -->
 
@@ -159,6 +152,17 @@ Xiangru Li, MSEE, now Electrical Engineer @ API Metrology <br>
 
 <div class="row t30">
     <div class="medium-4 columns b30 profile-element">
+	<img src="/images/profiles/shivamkumar.jpeg" alt="">
+        <!--img src="{{ site.urlimg }}shivamkumar.jpeg" alt=""-->
+        <p><a href="">Shivam Kumar, Research Intern</a>
+	<br>
+	<i>BTech Robotics and Cyber-Physical Systems </i><br>
+	Plaksha University, Mohali, India
+	</p>
+    </div><!-- /.medium-6.columns -->
+
+
+    <div class="medium-4 columns b30 profile-element">
 	<img src="/images/profiles/ariglockner.png" alt="">
         <!--img src="{{ site.urlimg }}ariglockner.png" alt=""-->
         <p><a href="">Ari Glockner</a>
@@ -178,6 +182,9 @@ Xiangru Li, MSEE, now Electrical Engineer @ API Metrology <br>
 	</p>
     </div><!-- /.medium-6.columns -->
 
+</div><!-- /.row -->
+
+<div class="row t30">
     <div class="medium-4 columns b30 profile-element">
 	<img src="/images/profiles/juanBeaver.jpg" alt="">
         <!--img src="{{ site.urlimg }}juanBeaver.jpg" alt=""-->
@@ -188,9 +195,6 @@ Xiangru Li, MSEE, now Electrical Engineer @ API Metrology <br>
 	</p>
     </div><!-- /.medium-6.columns -->
 
-</div><!-- /.row -->
-
-<div class="row t30">
     <div class="medium-4 columns b30 profile-element">
 	<img src="/images/profiles/emmasinasac.png" alt="">
         <!--img src="{{ site.urlimg }}emmasinasac.png" alt=""-->
@@ -211,6 +215,9 @@ Xiangru Li, MSEE, now Electrical Engineer @ API Metrology <br>
 	</p>
     </div><!-- /.medium-6.columns -->
 
+</div><!-- /.row -->
+
+<div class="row t30">
     <div class="medium-4 columns b30 profile-element">
 	<img src="/images/profiles/vaishnavinayak.png" alt="">
         <!--img src="{{ site.urlimg }}vaishnavinayak.png" alt=""-->
@@ -220,9 +227,7 @@ Xiangru Li, MSEE, now Electrical Engineer @ API Metrology <br>
 	Computer Science, Ohio State University
 	</p>
     </div><!-- /.medium-6.columns -->
-</div><!-- /.row -->
 
-<div class="row t30">
 <div class="medium-4 columns b30 profile-element">
 	<img src="/images/profiles/Ray.jpg" alt="">
         <!--img src="{{ site.urlimg }}Ray.jpg" alt=""-->
@@ -243,8 +248,6 @@ Xiangru Li, MSEE, now Electrical Engineer @ API Metrology <br>
 	now PhD student at Princeton University
 	</p>
     </div><!-- /.medium-6.columns -->
-<div class="medium-4 columns b30">
-</div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
 Sreya Srinidhi, CSDS <br>
