@@ -57,7 +57,7 @@ projects:
 
   - title: "Pneumatic Suction Sensory Substitution Feedback for Telemanipulation"
     researcher: "Jiaji Su"
-    image: "hs26.jpg"
+    image: "HS26.jpg"
     categories:
       - assistive-instructional-feedback
     summary: "Traditional force-feedback devices are often bulky, heavy, and difficult to integrate into surgical robotic interfaces. We developed a lightweight fingertip haptic display that uses gentle pneumatic suction to convey grasping forces during telemanipulation. The device can be integrated into existing robotic manipulanda with minimal modification and works alongside passive kinesthetic feedback already present in many commercial surgical robots. User studies showed that suction-based feedback improved stiffness discrimination and encouraged operators to apply lower grasp forces during manipulation, demonstrating a compact and practical approach for enhancing human performance in teleoperation."
