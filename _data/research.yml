@@ -1,0 +1,98 @@
+categories:
+  - id: learning-enhanced-force-tactile-sensing
+    title: "Learning-Enhanced Force and Tactile Sensing"
+  - id: assistive-instructional-feedback
+    title: "Assistive and Instructional Feedback for Improved Human-Machine Performance"
+
+projects:
+  - title: "Model-mediated Intrinsic Visual Force Sensing for Compliant Robotic Grippers"
+    researcher: "Kaiwen Zuo"
+    image: "RAL26.jpg"
+    categories:
+      - learning-enhanced-force-tactile-sensing
+    summary: "Robots often rely on force sensors to determine how strongly they are grasping an object, but integrating such sensors can increase cost, complexity, and mechanical fragility. We developed a vision-based approach that estimates grasp forces using images captured by a wrist-mounted camera, eliminating the need for dedicated force sensors. Our method combines geometric contact localization with a physics-based model of gripper deformation, allowing the robot to determine both where contact occurs and how much force is being applied. Because the approach explicitly models the mechanics of the gripper rather than relying solely on data-driven learning, it generalizes more effectively to previously unseen objects and grasping scenarios."
+    links:
+      - label: "RAL 2026"
+        url: "https://ieeexplore.ieee.org/abstract/document/11513996"
+      - label: "Preprint"
+        url: "https://arxiv.org/abs/2605.00307"
+
+  - title: "Model-mediated Extrinsic Visual Force Sensing in Telesurgery"
+    researcher: "Shuyuan Yang"
+    image: "JMRR24.jpg"
+    categories:
+      - learning-enhanced-force-tactile-sensing
+    summary: "Integrating force sensors into surgical tools can be challenging because designers have to account for miniaturization, manufacturability, robustness, and sterilizability. However, deformation is a crucial perceptual cue that humans use to infer forces, relating the movement of tissue to force through our own estimate of the tissue's mechanical stiffness. What if we imbued this capability in surgical robots? We developed a vision-based telesurgical force sensing approach that uses data-driven computer vision techniques on endoscope video to observe and track tool-tissue contact and tissue deformation. We integrate machine visual perception with an physics-based stiffness tissue stiffness model to infer tool-tissue interaction forces."
+    links:
+      - label: "JMRR 2024 Paper"
+        url: "https://doi.org/10.1142/S2424905X24400087"
+      - label: "Position Estimation Github Repository"
+        url: "https://github.com/enhanced-telerobotics/Telesurgical-Tool-Vision-based-Position-Estimation"
+      - label: "Contact Estimation Github Repository"
+        url: "https://github.com/enhanced-telerobotics/Telesurgical-Tool-Vision-based-Contact-Detection"
+
+  - title: "Shaft-integrated Force Sensing with Neural Network-based Dynamics Compensation for Telesurgery"
+    researcher: "Shuyuan Yang, Grant Boone"
+    image: "TMRB26.jpg"
+    categories:
+      - learning-enhanced-force-tactile-sensing
+    summary: "In collaboration with Resense GmbH, a force sensor manufacturer, we developed a simple and reproducible method for adding a force sensor to a surgical instrument shaft without changing how the instrument operates. One challenge with measuring tool-tissue interaction forces through a shaft-mounted force sensor is that the measurements include both tissue interaction forces and internal forces from the robot's cable-driven transmission system, such as friction, backlash, cable stretch, and cable tension. By combining force measurements with a machine learning model that compensates for the transmission dynamics, our integrated sensing approach can distinguish forces caused by tissue interaction from forces generated internally by the robot itself. This enables accurate force estimation that can inform future force-aware surgical robotic systems."
+    links:
+      - label: "T-MRB 2026"
+        url: "https://doi.org/INSERT_DOI_HERE"
+      - label: "Project Website and Code"
+        url: "https://enhanced-telerobotics.github.io/shaft_force_sensing"
+
+  - title: "Open Source Force Sensors for Minimally Invasive Surgical Robotics Research"
+    researcher: "Xiangru Li"
+    image: "force_sensor_thumb.jpg"
+    categories:
+      - learning-enhanced-force-tactile-sensing
+    summary: "We developed a customizable force sensor design that balance ease of manufacture, cost, size, and accuracy for surgical robotics research. This force sensor can be added onto the jaw of a telesurgical forceps, directly measuring tool-tissue interaction forces at their point of application. Unlike shaft-based approaches sensing is more straightforward because it is not affected by internal tool dynamics. We open-sourced the design files and code for this sensor to enable other researchers to easily integrate force sensing into their surgical robotics research."
+    links:
+      - label: "Sensors 2023"
+        url: "https://doi.org/10.3390/s23115230"
+      - label: "Design Files"
+        url: "https://github.com/enhanced-telerobotics/RMIS_force_sensor"
+
+  - title: "Pneumatic Suction Sensory Substitution Feedback for Telemanipulation"
+    researcher: "Jiaji Su"
+    image: "hs26.jpg"
+    categories:
+      - assistive-instructional-feedback
+    summary: "Traditional force-feedback devices are often bulky, heavy, and difficult to integrate into surgical robotic interfaces. We developed a lightweight fingertip haptic display that uses gentle pneumatic suction to convey grasping forces during telemanipulation. The device can be integrated into existing robotic manipulanda with minimal modification and works alongside passive kinesthetic feedback already present in many commercial surgical robots. User studies showed that suction-based feedback improved stiffness discrimination and encouraged operators to apply lower grasp forces during manipulation, demonstrating a compact and practical approach for enhancing human performance in teleoperation."
+    links:
+      - label: "IEEE Haptics Symposium 2026"
+        url: "https://doi.org/10.1109/HAPTICS66823.2026.11495466"
+
+  - title: "Soft Continuum Kinesthetic Feedback for Telemanipulation"
+    researcher: "Jiaji Su"
+    image: "telepresence24.jpg"
+    categories:
+      - assistive-instructional-feedback
+    summary: "We developed a soft handheld haptic device that fits on the finger and recreates three-dimensional force sensations during teleoperation. Unlike conventional haptic devices that rely on rigid mechanisms that are affixed to a table or workspace, our design uses soft continuum structures and pneumatic actuation to improve comfort and reduce weight, to make them more suitable for handheld wireless interfaces while still providing meaningful kinesthetic feedback."
+    links:
+      - label: "Telepresence 2024"
+        url: "https://ieeexplore.ieee.org/abstract/document/10841502"
+      - label: "Preprint"
+        url: "https://arxiv.org/abs/2409.11606"
+
+  - title: "Haptic Assistance and Resistance for Improving Dexterous Telemanipulation"
+    researcher: "Zonghe Chua"
+    image: "Finger.png"
+    categories:
+      - assistive-instructional-feedback
+    summary: "Much like a coach can physically guide a learner through a motion, haptic systems can be programmed to provide instructional feedback. One mechanism by which humans learn, is by observing their mistakes and correcting them. We investigate how humans learn from haptic feedback that either assists and reduces their mistakes, or resist their movements and amplifies their mistakes. Would amplifying their mistakes increase their learning rate? Would assisting them make them more likely to be too reliant on our assistance? We found that assistive feedback helped less skilled users learn, althought their performance quickly plateaued. In contrast, resistive feedback helped more skilled users learn, and was particularly beneficial if the user preferred to move slowly and patiently to complete the task. This work suggests that haptic feedback can be used to improve telemanipulation performance, but the design of this feedback should consider the skill level and preferences of the user."
+    links:
+      - label: "TOH 2024"
+        url: "https://doi.org/10.1109/TOH.2024.3350128"
+
+  - title: "Learning Visual Force Estimation during Teleoperation of a Surgical Robot"
+    researcher: "Zonghe Chua"
+    image: "tmrb2020.png"
+    categories:
+      - assistive-instructional-feedback
+    summary: "Leading robot-assisted minimally invasive surgery platforms do not provide force feedback to the surgeon, so surgeons rely on visual force estimation to judge tissue interaction forces. We investigated how training with force feedback influences visual force estimation during teleoperated soft environment manipulation. We found that teleoperator are able to learn to make more accurate visual force estimates with training, and that this learning is enhanced when force feedback is provided during training. This work suggests that providing force feedback during training can improve surgeons' ability to visually estimate forces during teleoperation, which has implications for the design of future surgical robotic systems."
+    links:
+      - label: "TMRB 2020"
+        url: "http://doi.org/10.1109/TMRB.2020.3023005"

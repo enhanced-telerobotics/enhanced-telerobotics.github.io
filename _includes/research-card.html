@@ -1,0 +1,34 @@
+{% assign project = include.project %}
+<article class="research-card">
+  {% if project.image %}
+  <div class="research-card__image">
+    <img src="{{ site.urlimg }}{{ project.image }}" alt="{{ project.title | escape_once }}">
+  </div>
+  {% endif %}
+  <div class="research-card__body">
+    <h3>{{ project.title }}</h3>
+    {% if project.researcher %}
+    <p class="research-card__researcher">Primary Researcher: {{ project.researcher }}</p>
+    {% endif %}
+    {% if project.summary %}
+    <p>{{ project.summary }}</p>
+    {% endif %}
+    {% if project.categories %}
+    <div class="research-card__categories">
+      {% for category_id in project.categories %}
+        {% assign category = site.data.research.categories | where: "id", category_id | first %}
+        {% if category %}
+        <span>{{ category.title }}</span>
+        {% endif %}
+      {% endfor %}
+    </div>
+    {% endif %}
+    {% if project.links %}
+    <div class="research-card__links">
+      {% for link in project.links %}
+      <a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.label }}</a>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+</article>
