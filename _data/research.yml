@@ -39,7 +39,7 @@ projects:
     summary: "In collaboration with Resense GmbH, a force sensor manufacturer, we developed a simple and reproducible method for adding a force sensor to a surgical instrument shaft without changing how the instrument operates. One challenge with measuring tool-tissue interaction forces through a shaft-mounted force sensor is that the measurements include both tissue interaction forces and internal forces from the robot's cable-driven transmission system, such as friction, backlash, cable stretch, and cable tension. By combining force measurements with a machine learning model that compensates for the transmission dynamics, our integrated sensing approach can distinguish forces caused by tissue interaction from forces generated internally by the robot itself. This enables accurate force estimation that can inform future force-aware surgical robotic systems."
     links:
       - label: "T-MRB 2026"
-        url: "https://doi.org/INSERT_DOI_HERE"
+        url: "https://doi.org/10.1109/TMRB.2026.3699214"
       - label: "Project Website and Code"
         url: "https://enhanced-telerobotics.github.io/shaft_force_sensing"
 
